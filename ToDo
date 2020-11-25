@@ -1,0 +1,4 @@
+feel free to modify discover_art.py for faster processing.
+the code is going to download around 968 images
+modify it so that selenium has to wait till the download is complete. 
+presently there is no built-in to selenium way to check that the download is completed.
